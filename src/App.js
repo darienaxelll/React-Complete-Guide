@@ -1,6 +1,6 @@
 import ExpensesDisplay from "./components/Expenses/ExpensesDisplay";
 
-function App() {
+const App = () => {
   const expenses = [
     {
       id: "e1",
